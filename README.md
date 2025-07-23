@@ -4,6 +4,8 @@
 
 Este es el sitio web oficial del colectivo **Código Rosa**, un equipo de jóvenes programadoras que busca mostrar su identidad al mundo a través de una landing page profesional y moderna.
 
+> **⚠️ Proyecto Ficticio**: Este es un proyecto de demostración creado únicamente con fines educativos. Todos los datos, nombres, contactos e información presentada son completamente ficticios y no representan una organización real.
+
 ## 🎯 Objetivos
 
 - Presentar al equipo Código Rosa y sus integrantes
